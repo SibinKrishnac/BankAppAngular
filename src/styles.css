@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+.font{
+    font-family: 'Fredoka One', cursive;
+    position: relative;
+    top: 50px;
+}
+.hed{
+    position: relative;
+    left: 20px;
+}
+.form-control{
+    width: 400px;
+}
+.side{
+    position: relative;
+    left: 20px;
+}
